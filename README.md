@@ -12,10 +12,10 @@ For example if a registered user has created a new campground only that user can
 
 
 Front-end : HTML , CSS , JavaScript, Bootstrap
-, Back-end: Node JS, Express, MongoDB, JavaScript, Mongoose 
-, For Storing Images: Cloudinary
-, Display Maps: Mapbox
-, Server-Side language: EJS
-, Restful APIs, Joi.dev API 
-, For authentication : Passport JS
-, The source of the campground images : https://unsplash.com/s/photos/campgrounds 
+|| Back-end: Node JS, Express, MongoDB, JavaScript, Mongoose 
+|| For Storing Images: Cloudinary
+|| Display Maps: Mapbox
+|| Server-Side language: EJS
+|| Restful APIs, Joi.dev API 
+|| For authentication : Passport JS
+|| The source of the campground images : https://unsplash.com/s/photos/campgrounds 
